@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "noImplicitAny": false,
+    "removeComments": true,
+    "module": "ESNext",
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  }
+}
