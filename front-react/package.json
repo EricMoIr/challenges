@@ -23,7 +23,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "my-custom-script": "echo 'I am a custom script!'"
   },
   "eslintConfig": {
     "extends": [
